@@ -1,0 +1,15 @@
+{
+  "name": "globe-viewer",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Kelly",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.83.0",
+    "three-trackballcontrols": "^0.0.5"
+  }
+}
